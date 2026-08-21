@@ -7,6 +7,6 @@
 # 📌 Featured Projects
 
 [![Repo 1](https://github-readme-stats.shion.dev/api/pin/?username=khanhmiser&repo=Customer-movie-ticket-analysis&theme=tokyonight&show_owner=false)](https://github.com/khanhmiser/Customer-movie-ticket-analysis)
-[![Repo 2](https://github-readme-stats.shion.dev/api/pin/?username=khanhmiser&repo=analyst-miniature-model-cars&theme=tokyonight&show_owner=false)](https://github.com/khanhmiser/analyst-miniature-model-cars)
+[![Repo 2](https://github-readme-stats.shion.dev/api/pin/?username=khanhmiser&repo=analyst-miniature-model-cars&theme=tokyonight&show_owner=false)](https://github.com/khanhmiser/Analyst-Miniature-Model-Cars)
 
 
