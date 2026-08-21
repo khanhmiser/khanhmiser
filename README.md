@@ -1,4 +1,8 @@
+## About Me
 
+Hi, I'm a 4th-year MIS student with a strong interest in Data Analysis and Business Analysis.  
+I'm passionate about turning data into insights, solving problems, and learning how technology can support better business decisions.  
+Currently, I'm focused on improving my skills and exploring opportunities in Data Analyst/Business Analyst.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khanhhoang-mis/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hoangquockhanh2626@gmail.com) 
 
